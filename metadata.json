@@ -1,0 +1,6 @@
+{
+  "name": "Aahara Clinical",
+  "description": "Science-backed clinical meal delivery, daily macro scheduling, glycemic insights, and NABL lab-verified nutrition for Indian metropolitan lifestyles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
